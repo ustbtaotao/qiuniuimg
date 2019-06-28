@@ -1,0 +1,22 @@
+{
+  "code": 200,
+  "data": {
+    "has_sensitive_words": false,
+    "marker": "eyJjIjowLCJrIjoiaW1hZ2Uva2V0dGxla2V0dGxlNDMuanBlZyJ9",
+    "entries": [
+      {
+        "key": "image/hexo/WechatIMG10.jpeg",
+        "dl_url": "http://xxxx.clouddn.com/image/hexo/WechatIMG10.jpeg?attname=",
+        "dl_remove_attname_url": "http://xxxx.clouddn.com/image/hexo/WechatIMG10.jpeg",
+        "hash": "Ftu2mtGuCpt8HeYRtCUo1pDPfRnw",
+        "file_size": 53645,
+        "put_time": "2017-05-19T11:01:09.2385806+08:00",
+        "mime_type": "image/jpeg",
+        "end_user": "",
+        "ftype": 0
+      }
+    ],
+    "prefixes": null
+  },
+  "message": ""
+}
